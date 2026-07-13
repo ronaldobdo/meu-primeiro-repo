@@ -3,3 +3,4 @@ Segunda anotação, adicionada depois do primeiro commit.
 Terceira anotação.
 Linha adicionada diretamente na branch main.
 Linha adicionada na branch experimento.
+Linha adicionada no clone do repositório.
