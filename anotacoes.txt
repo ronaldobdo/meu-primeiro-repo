@@ -1,2 +1,3 @@
 Primeira anotação do meu repositório de teste.
 Segunda anotação, adicionada depois do primeiro commit.
+Terceira anotação.
